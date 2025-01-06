@@ -1,6 +1,6 @@
 
 print("На какой поз нашло?")
-
+print("введите цифру от 1 до 5")
 import random
 from time import sleep
 
@@ -80,4 +80,5 @@ if vopros == ("4"):
 if vopros == ("5"):
     fullsup = random.choice(list5)
     print("пикай "+fullsup)
+
 sleep(5)

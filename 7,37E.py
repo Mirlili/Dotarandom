@@ -83,4 +83,5 @@ if vopros == ("5"):
     print("пикай "+fullsup)
 if vopros == ("6"):
     webbrowser.open('https://www.twitch.tv/stray228?lang=ru', new=2)
+    print("шо ты галава")
 sleep(5)

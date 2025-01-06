@@ -3,6 +3,7 @@ print("На какой поз нашло?")
 print("введите цифру от 1 до 5")
 import random
 from time import sleep
+import webbrowser
 
 ac=("alchemist")
 bc=("bloodseeker")
@@ -80,5 +81,6 @@ if vopros == ("4"):
 if vopros == ("5"):
     fullsup = random.choice(list5)
     print("пикай "+fullsup)
-
+if vopros == ("6"):
+    webbrowser.open('https://www.twitch.tv/stray228?lang=ru', new=2)
 sleep(5)

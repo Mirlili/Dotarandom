@@ -16,7 +16,7 @@ hc = ("shadow fiend")
 amc = ("anti-mage")
 pc = ("phantom assasin")
 list=([ac, bc, sc, lc, mc, tc, jc, hc, amc, pc])
-#на мид нахуй
+#на мид 
 em = ("ember spirit")
 mm = ("monkey king")
 am = ("earthshaker")
@@ -27,7 +27,7 @@ lm = ("lina")
 tm = ("tiny")
 im = ("invoker")
 list2=([em, mm, am, pm, vm, gm, lm,tm,im])
-#на тройку нахуй
+#на тройку 
 e3 = ("enigma")
 p3 = ("pheonix")
 l3 = ("lycan")
@@ -51,7 +51,7 @@ u4 = ("pugna")
 d4 = ("shadow demon")
 PUDGE = ("PUDGE")
 list4=([b4,c4,s4,l4,z4,p4,n4,u4,d4,PUDGE])
-#НА ФУЛЛ САПА НАХУЙ
+#НА ФУЛЛ САПА
 v5 = ("venomancer")
 i5 = ("io")
 o5 = ("oracle")
